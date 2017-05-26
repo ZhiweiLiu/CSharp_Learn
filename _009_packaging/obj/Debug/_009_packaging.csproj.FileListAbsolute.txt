@@ -1,0 +1,6 @@
+E:\Csharp\CSharpLearn\_009_packaging\bin\Debug\_009_packaging.exe.config
+E:\Csharp\CSharpLearn\_009_packaging\bin\Debug\_009_packaging.exe
+E:\Csharp\CSharpLearn\_009_packaging\bin\Debug\_009_packaging.pdb
+E:\Csharp\CSharpLearn\_009_packaging\obj\Debug\_009_packaging.csprojResolveAssemblyReference.cache
+E:\Csharp\CSharpLearn\_009_packaging\obj\Debug\_009_packaging.exe
+E:\Csharp\CSharpLearn\_009_packaging\obj\Debug\_009_packaging.pdb
