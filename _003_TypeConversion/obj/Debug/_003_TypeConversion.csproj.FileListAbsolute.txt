@@ -1,0 +1,8 @@
+E:\Csharp\CSharpLearn\_003_TypeConversion\bin\Debug\_003_TypeConversion.exe.config
+E:\Csharp\CSharpLearn\_003_TypeConversion\bin\Debug\_003_TypeConversion.exe
+E:\Csharp\CSharpLearn\_003_TypeConversion\bin\Debug\_003_TypeConversion.pdb
+E:\Csharp\CSharpLearn\_003_TypeConversion\obj\Debug\_003_TypeConversion.exe
+E:\Csharp\CSharpLearn\_003_TypeConversion\obj\Debug\_003_TypeConversion.pdb
+E:\Csharp\CSharpLearn\_003_TypeConversion\bin\Debug\_003_TypeConversion.exe.CodeAnalysisLog.xml
+E:\Csharp\CSharpLearn\_003_TypeConversion\bin\Debug\_003_TypeConversion.exe.lastcodeanalysissucceeded
+E:\Csharp\CSharpLearn\_003_TypeConversion\obj\Debug\_003_TypeConversion.csprojResolveAssemblyReference.cache

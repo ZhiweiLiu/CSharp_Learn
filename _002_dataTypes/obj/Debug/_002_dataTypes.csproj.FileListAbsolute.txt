@@ -1,0 +1,8 @@
+E:\Csharp\CSharpLearn\_002_dataTypes\bin\Debug\_002_dataTypes.exe.config
+E:\Csharp\CSharpLearn\_002_dataTypes\bin\Debug\_002_dataTypes.exe
+E:\Csharp\CSharpLearn\_002_dataTypes\bin\Debug\_002_dataTypes.pdb
+E:\Csharp\CSharpLearn\_002_dataTypes\obj\Debug\_002_dataTypes.csprojResolveAssemblyReference.cache
+E:\Csharp\CSharpLearn\_002_dataTypes\obj\Debug\_002_dataTypes.exe
+E:\Csharp\CSharpLearn\_002_dataTypes\obj\Debug\_002_dataTypes.pdb
+E:\Csharp\CSharpLearn\_002_dataTypes\bin\Debug\_002_dataTypes.exe.CodeAnalysisLog.xml
+E:\Csharp\CSharpLearn\_002_dataTypes\bin\Debug\_002_dataTypes.exe.lastcodeanalysissucceeded

@@ -1,0 +1,5 @@
+E:\Csharp\CSharpLearn\_008_Loop\bin\Debug\_008_Loop.exe.config
+E:\Csharp\CSharpLearn\_008_Loop\bin\Debug\_008_Loop.exe
+E:\Csharp\CSharpLearn\_008_Loop\bin\Debug\_008_Loop.pdb
+E:\Csharp\CSharpLearn\_008_Loop\obj\Debug\_008_Loop.exe
+E:\Csharp\CSharpLearn\_008_Loop\obj\Debug\_008_Loop.pdb

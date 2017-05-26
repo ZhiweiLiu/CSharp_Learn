@@ -1,0 +1,8 @@
+E:\Csharp\CSharpLearn\_004_Variables\bin\Debug\_004_Variables.exe.config
+E:\Csharp\CSharpLearn\_004_Variables\bin\Debug\_004_Variables.exe
+E:\Csharp\CSharpLearn\_004_Variables\bin\Debug\_004_Variables.pdb
+E:\Csharp\CSharpLearn\_004_Variables\obj\Debug\_004_Variables.csprojResolveAssemblyReference.cache
+E:\Csharp\CSharpLearn\_004_Variables\obj\Debug\_004_Variables.exe
+E:\Csharp\CSharpLearn\_004_Variables\obj\Debug\_004_Variables.pdb
+E:\Csharp\CSharpLearn\_004_Variables\bin\Debug\_004_Variables.exe.CodeAnalysisLog.xml
+E:\Csharp\CSharpLearn\_004_Variables\bin\Debug\_004_Variables.exe.lastcodeanalysissucceeded

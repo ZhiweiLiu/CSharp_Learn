@@ -1,0 +1,7 @@
+E:\Csharp\CSharpLearn\_005_Const\bin\Debug\_005_Const.exe.config
+E:\Csharp\CSharpLearn\_005_Const\bin\Debug\_005_Const.exe
+E:\Csharp\CSharpLearn\_005_Const\bin\Debug\_005_Const.pdb
+E:\Csharp\CSharpLearn\_005_Const\obj\Debug\_005_Const.exe
+E:\Csharp\CSharpLearn\_005_Const\obj\Debug\_005_Const.pdb
+E:\Csharp\CSharpLearn\_005_Const\bin\Debug\_005_Const.exe.CodeAnalysisLog.xml
+E:\Csharp\CSharpLearn\_005_Const\bin\Debug\_005_Const.exe.lastcodeanalysissucceeded

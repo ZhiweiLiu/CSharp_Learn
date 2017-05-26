@@ -1,0 +1,7 @@
+E:\Csharp\CSharpLearn\CSharpLearn\bin\Debug\CSharpLearn.exe.config
+E:\Csharp\CSharpLearn\CSharpLearn\bin\Debug\CSharpLearn.exe
+E:\Csharp\CSharpLearn\CSharpLearn\bin\Debug\CSharpLearn.pdb
+E:\Csharp\CSharpLearn\CSharpLearn\obj\Debug\CSharpLearn.exe
+E:\Csharp\CSharpLearn\CSharpLearn\obj\Debug\CSharpLearn.pdb
+E:\Csharp\CSharpLearn\CSharpLearn\bin\Debug\CSharpLearn.exe.CodeAnalysisLog.xml
+E:\Csharp\CSharpLearn\CSharpLearn\bin\Debug\CSharpLearn.exe.lastcodeanalysissucceeded

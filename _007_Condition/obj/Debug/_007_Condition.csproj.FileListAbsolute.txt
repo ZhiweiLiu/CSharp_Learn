@@ -1,0 +1,5 @@
+E:\Csharp\CSharpLearn\_007_Condition\bin\Debug\_007_Condition.exe.config
+E:\Csharp\CSharpLearn\_007_Condition\bin\Debug\_007_Condition.exe
+E:\Csharp\CSharpLearn\_007_Condition\bin\Debug\_007_Condition.pdb
+E:\Csharp\CSharpLearn\_007_Condition\obj\Debug\_007_Condition.exe
+E:\Csharp\CSharpLearn\_007_Condition\obj\Debug\_007_Condition.pdb
