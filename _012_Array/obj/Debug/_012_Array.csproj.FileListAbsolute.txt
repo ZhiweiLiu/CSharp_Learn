@@ -1,0 +1,6 @@
+E:\Csharp\CSharpLearn\_012_Array\bin\Debug\_012_Array.exe.config
+E:\Csharp\CSharpLearn\_012_Array\bin\Debug\_012_Array.exe
+E:\Csharp\CSharpLearn\_012_Array\bin\Debug\_012_Array.pdb
+E:\Csharp\CSharpLearn\_012_Array\obj\Debug\_012_Array.exe
+E:\Csharp\CSharpLearn\_012_Array\obj\Debug\_012_Array.pdb
+E:\Csharp\CSharpLearn\_012_Array\obj\Debug\_012_Array.csprojResolveAssemblyReference.cache

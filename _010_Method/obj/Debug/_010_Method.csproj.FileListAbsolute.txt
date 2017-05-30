@@ -3,3 +3,4 @@ E:\Csharp\CSharpLearn\_010_Method\bin\Debug\_010_Method.exe
 E:\Csharp\CSharpLearn\_010_Method\bin\Debug\_010_Method.pdb
 E:\Csharp\CSharpLearn\_010_Method\obj\Debug\_010_Method.exe
 E:\Csharp\CSharpLearn\_010_Method\obj\Debug\_010_Method.pdb
+E:\Csharp\CSharpLearn\_010_Method\obj\Debug\_010_Method.csprojResolveAssemblyReference.cache
