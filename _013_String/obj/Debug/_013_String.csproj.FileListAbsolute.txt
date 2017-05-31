@@ -1,0 +1,6 @@
+E:\Csharp\CSharpLearn\_013_String\bin\Debug\_013_String.exe.config
+E:\Csharp\CSharpLearn\_013_String\bin\Debug\_013_String.exe
+E:\Csharp\CSharpLearn\_013_String\bin\Debug\_013_String.pdb
+E:\Csharp\CSharpLearn\_013_String\obj\Debug\_013_String.csprojResolveAssemblyReference.cache
+E:\Csharp\CSharpLearn\_013_String\obj\Debug\_013_String.exe
+E:\Csharp\CSharpLearn\_013_String\obj\Debug\_013_String.pdb
