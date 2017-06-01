@@ -1,0 +1,5 @@
+E:\Csharp\CSharpLearn\_014_Struct\bin\Debug\_014_Struct.exe.config
+E:\Csharp\CSharpLearn\_014_Struct\bin\Debug\_014_Struct.exe
+E:\Csharp\CSharpLearn\_014_Struct\bin\Debug\_014_Struct.pdb
+E:\Csharp\CSharpLearn\_014_Struct\obj\Debug\_014_Struct.exe
+E:\Csharp\CSharpLearn\_014_Struct\obj\Debug\_014_Struct.pdb

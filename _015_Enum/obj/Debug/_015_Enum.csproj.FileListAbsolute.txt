@@ -1,0 +1,5 @@
+E:\Csharp\CSharpLearn\_015_Enum\bin\Debug\_015_Enum.exe.config
+E:\Csharp\CSharpLearn\_015_Enum\bin\Debug\_015_Enum.exe
+E:\Csharp\CSharpLearn\_015_Enum\bin\Debug\_015_Enum.pdb
+E:\Csharp\CSharpLearn\_015_Enum\obj\Debug\_015_Enum.exe
+E:\Csharp\CSharpLearn\_015_Enum\obj\Debug\_015_Enum.pdb

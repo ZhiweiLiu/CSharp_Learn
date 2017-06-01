@@ -1,0 +1,6 @@
+E:\Csharp\CSharpLearn\_016_Class\bin\Debug\_016_Class.exe.config
+E:\Csharp\CSharpLearn\_016_Class\bin\Debug\_016_Class.exe
+E:\Csharp\CSharpLearn\_016_Class\bin\Debug\_016_Class.pdb
+E:\Csharp\CSharpLearn\_016_Class\obj\Debug\_016_Class.exe
+E:\Csharp\CSharpLearn\_016_Class\obj\Debug\_016_Class.pdb
+E:\Csharp\CSharpLearn\_016_Class\obj\Debug\_016_Class.csprojResolveAssemblyReference.cache
